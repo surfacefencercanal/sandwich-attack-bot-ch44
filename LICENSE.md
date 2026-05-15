@@ -1,4 +1,4 @@
-# 
+# AI-powered sandwich attack bot | private-RPC-nodes + pump-detection is the best sandwich attack bot, featuring private-RPC-nodes and pump-detection. Fast, smart, and optimized for
 
 
 
